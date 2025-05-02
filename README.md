@@ -1,6 +1,6 @@
 # Max Flow Solver — Edmonds-Karp Algorithm (Java)
 
-This Java project implements the **Edmonds-Karp algorithm**, a breadth-first search (BFS)-based approach to compute the **maximum flow** in a directed flow network. The program reads a graph from a file, runs the algorithm, and prints each step of the flow augmentation process, the total maximum flow achieved, and the time taken to compute it.
+This Java project implements the **Edmonds-Karp algorithm**, a breadth-first search (BFS)-based approach to compute the **maximum flow** in a directed flow network. The program reads a graph from a file, runs the algorithm, and prints each step of the flow augmentation process, the total maximum flow achieved, and the time taken to compute it. Ford - Fulkerson Methodlogy used for this project to find the max flow.
 
 ---
 
